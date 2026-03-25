@@ -1,5 +1,5 @@
-﻿"""
-NSSECU3 - MP3: Application Execution Forensics Parser
+"""
+NSSECU3 - WFP: Application Execution Forensics Parser
 BAM / CAM / DAM artifact extraction from Windows registry hives.
 Methodology: SANS FOR500 | Exports: JSON + CSV + XLSX (auto)
 
