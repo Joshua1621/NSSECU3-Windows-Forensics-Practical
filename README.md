@@ -1,1 +1,0 @@
-# NSSECU3-Windows-Forensics-Practical
